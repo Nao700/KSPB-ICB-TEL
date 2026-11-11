@@ -1,0 +1,34 @@
+{
+  "version": "0.0.0",
+  "aboutMe": {
+    "identifier": "b6c6a038-2364-4fb5-a23f-3b3d2e70128c",
+    "name": "KSPD-ICB局",
+    "preferredPrefix": [
+      "907"
+    ],
+    "sipUri": [
+      "sip:magi4.tail738e81.ts.net:5060;transport=udp",
+      "sip:magi4.tail738e81.ts.net:5060;transport=tcp"
+    ],
+    "geolocationCoordinates": {
+      "latitude": 35.18,
+      "longitude": 136.91,
+      "accuracy": 50000
+    }
+  },
+  "extensions": [
+    {
+      "name": "Connection test",
+      "extension": "1234",
+      "type": "music"
+    }
+  ],
+  "providers": [
+    {
+      "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
+      "name": "MikaNeTEL",
+      "prefix": "510",
+      "mantela": "https://mantela.kusaremkn.com/mikanetel.json"
+    }
+  ]
+}
