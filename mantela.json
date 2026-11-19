@@ -22,6 +22,26 @@
       "name": "Connection test",
       "extension": "1234",
       "type": "music"
+    },
+    {
+      "name": "TP710 KSPD可搬",
+      "extension": "710",
+      "type": "phone"
+    },
+    {
+      "name": "ThinkCentre Nao703",
+      "extension": "713",
+      "type": "phone"
+    },
+    {
+      "name": "黒電話",
+      "extension": "800",
+      "type": "phone"
+    },
+    {
+      "name": "白電話",
+      "extension": "801",
+      "type": "phone"
     }
   ],
   "providers": [
